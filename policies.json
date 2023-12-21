@@ -5,7 +5,7 @@
       "assetVersion": "1.4.0",
       "configurationData": {
         "rateLimits": [
-          { "maximumRequests": 200, "timePeriodInMilliseconds": 1000 }
+          { "maximumRequests": 5, "timePeriodInMilliseconds": 100000 }
         ],
         "clusterizable": false,
         "exposeHeaders": true
