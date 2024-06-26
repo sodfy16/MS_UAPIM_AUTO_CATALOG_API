@@ -3,7 +3,7 @@
     "info": {
       "title": "HelloCICD",
       "description": "Test API.",
-      "version": "23.1.0"
+      "version": "24.0.0"
     },
     "servers": [
       {
