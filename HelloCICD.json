@@ -3,7 +3,7 @@
     "info": {
       "title": "HelloCICD",
       "description": "Test API.",
-      "version": "26.1.0"
+      "version": "26.1.1"
     },
     "servers": [
       {
@@ -32,8 +32,8 @@
                     ],
                     "properties": {
                       "message": {
-                        "default": "hello Nam",
-                        "example": "hello Nam",
+                        "default": "hello Matti",
+                        "example": "hello Matti",
                         "type": "string"
                       }
                     }
